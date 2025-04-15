@@ -17,4 +17,5 @@ export const appConfig: ApplicationConfig = {
   text: String = '1';
   text = 2
   text 5
+  text = 3
 };
