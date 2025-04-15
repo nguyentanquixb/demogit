@@ -14,4 +14,5 @@ export const appConfig: ApplicationConfig = {
     provideClientHydration(),
     { provide: NZ_ICONS, useValue: [SaveOutline] }
   ]
+  text: String = '1';
 };
