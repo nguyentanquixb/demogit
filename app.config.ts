@@ -15,4 +15,5 @@ export const appConfig: ApplicationConfig = {
     { provide: NZ_ICONS, useValue: [SaveOutline] }
   ]
   text: String = '1';
+  text = 2
 };
