@@ -18,4 +18,5 @@ export const appConfig: ApplicationConfig = {
   text = 2
   text 5
   text = 3
+  text = "fix conflict"
 };
